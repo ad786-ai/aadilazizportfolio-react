@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "skills": "Skills",
+    "projects": "Projects",
+    "resume": "Resume",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Hi, I'm",
+    "subtitle": "WordPress / E-Commerce Developer & Digital Marketer"
+  }
+}

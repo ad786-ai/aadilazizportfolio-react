@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aadilazizportfolio-react/static/css/main.9fdc0054.css",
+    "main.js": "/aadilazizportfolio-react/static/js/main.27e5f7e1.js",
+    "index.html": "/aadilazizportfolio-react/index.html",
+    "main.9fdc0054.css.map": "/aadilazizportfolio-react/static/css/main.9fdc0054.css.map",
+    "main.27e5f7e1.js.map": "/aadilazizportfolio-react/static/js/main.27e5f7e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdc0054.css",
+    "static/js/main.27e5f7e1.js"
+  ]
+}
